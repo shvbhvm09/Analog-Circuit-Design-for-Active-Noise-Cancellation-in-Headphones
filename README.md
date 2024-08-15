@@ -38,7 +38,7 @@ The objective of this experiment was to design an analog circuit capable of acti
   - Plotted magnitude and phase Bode plots for the original and compensated systems.
   - Ensured stability by tuning poles and zeros to maintain positive phase and gain margins.
   
-![Magnitude Bode Plot](path/to/magnitude_bode_plot.png)
+![Magnitude Bode Plot](Magnitude_Bode_Plot.jpg)
 ![Phase Bode Plot](path/to/phase_bode_plot.png)
 
 - **Transfer Function**:
