@@ -42,7 +42,7 @@ The objective of this experiment was to design an analog circuit capable of acti
 ![Phase Bode Plot](path/to/phase_bode_plot.png)
 
 - **Transfer Function**:
-  - Transfer Function: \(\frac{40(s+2000)(s+2000)}{(s+50)(s+100)}\)
+  - Transfer Function: 40*(s+2000)^2 / ((s+50)*(s+100))
 
 
 ### Problems and Solutions
