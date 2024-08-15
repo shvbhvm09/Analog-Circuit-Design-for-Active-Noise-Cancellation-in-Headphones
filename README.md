@@ -39,7 +39,7 @@ The objective of this experiment was to design an analog circuit capable of acti
   - Ensured stability by tuning poles and zeros to maintain positive phase and gain margins.
   
 ![Magnitude Bode Plot](Magnitude_Bode_Plot.jpg)
-![Phase Bode Plot](path/to/phase_bode_plot.png)
+![Phase Bode Plot](Phase_Bode_Plot.jpg)
 
 - **Transfer Function**:
   - Transfer Function: 40*(s+2000)^2 / ((s+50)*(s+100))
